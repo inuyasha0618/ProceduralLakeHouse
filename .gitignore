@@ -1,2 +1,5 @@
 .git/
 backup/
+cache/
+ipr/
+render/
